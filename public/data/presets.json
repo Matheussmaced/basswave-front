@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tankb-blackbox",
+    "title": "Capturas / IR",
+    "subtitle": "Tank B / Black Box",
+    "imageKey": "packTankb",
+    "timbres": ["Tone Hammer AGS","Tone Hammer Clean","Aguilar Flat","Aguilar","Ampeg SVT","Ampeg SVT 4 Pro","Braguinha PB","Ratt SGT 1","Ratt SGT 2","Ratt SGT 3","Sub Bass","Haktke","Tone Hammer (IR)"]
+  },
+  {
+    "id": "valeton-gp200",
+    "title": "Valeton GP 200",
+    "subtitle": "Pack 2.0",
+    "imageKey": "packValeton",
+    "timbres": ["Tone Hammer AGS V2","Ratt SGT V2","Bass Microsynth V2","Clean + Octave","Clean","Clean + Chorus","Clean + Delay","Clean + Wah"]
+  },
+  {
+    "id": "ampero-mini",
+    "title": "Ampero Mini",
+    "subtitle": "Pack 2.0",
+    "imageKey": "packAmpero",
+    "timbres": ["Tone Hammer AGS V2","Ratt SGT V2","Bass Microsynth V2","Bass Synth","Clean","Clean + Octave","Bass Fuzz","Clean + Chorus","Darkglass 1","Darkglass 2","Darkglass 3"]
+  },
+  {
+    "id": "boss-gt1b",
+    "title": "Boss GT1B",
+    "subtitle": "Pack 2.0",
+    "imageKey": "packBoss",
+    "timbres": ["Tone Hammer AGS V2","Ratt SGT V2","Bass Microsynth V2","Moog","Clean","Clean + Octave","Clean + Wah","Clean + Chorus","Slap","Ambience Delay"]
+  }
+]
