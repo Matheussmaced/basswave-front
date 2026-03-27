@@ -11,12 +11,18 @@ import packTankb from "@/assets/pack-tankb-blackbox.png";
 import packValeton from "@/assets/pack-valeton-gp200.png";
 import packAmpero from "@/assets/pack-ampero-mini.png";
 import packBoss from "@/assets/pack-boss-gt1b.png";
+import packDcx from "@/assets/pack-tankb-dcx.png";
+import packStomp2 from "@/assets/pack-ampero-stomp2.png";
+import packPocketMaster from "@/assets/pack-pocket-master.png";
 
 const imageMap: Record<string, any> = {
   packTankb,
   packValeton,
   packAmpero,
   packBoss,
+  packDcx,
+  packStomp2,
+  packPocketMaster,
 };
 
 const videos = videosJson as Record<string, string>;

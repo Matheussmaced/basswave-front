@@ -26,5 +26,45 @@
     "subtitle": "Pack 2.0",
     "imageKey": "packBoss",
     "timbres": ["Tone Hammer AGS V2","Ratt SGT V2","Bass Microsynth V2","Moog","Clean","Clean + Octave","Clean + Wah","Clean + Chorus","Slap","Ambience Delay"]
+  },
+  {
+    "id": "dcx",
+    "title": "Capturas / IR",
+    "subtitle": "Tank B / Black Box DCX",
+    "imageKey": "packDcx",
+    "timbres": [
+      "DCX CLEAN",
+      "DCX DRIVE 1",
+      "DCX DRIVE 2",
+      "DCX DRIVE 3"
+    ]
+  },
+  {
+    "id": "ampero-stomp-ii",
+    "title": "Ampero Stomp II",
+    "subtitle": "Pack 2.0",
+    "imageKey": "packStomp2",
+    "timbres": [
+      "Tone Hammer AGS",
+      "Ratt SGT",
+      "Bass Microsynth"
+    ]
+  },
+  {
+    "id": "pocket-master",
+    "title": "Pocket Master",
+    "subtitle": "Pack 2.0",
+    "imageKey": "packPocketMaster",
+    "timbres": [
+      "Tone Hammer AGS",
+      "Ratt SGT",
+      "Bass Microsynth",
+      "Clean",
+      "Clean + Octave",
+      "Chorus",
+      "Filter",
+      "Clean + Chorus",
+      "Slap"
+    ]
   }
 ]
