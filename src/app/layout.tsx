@@ -16,7 +16,7 @@ const orbitron = Orbitron({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://basswave.com.br"),
-  title: "Bass Waves Store",
+  title: "BassWaves Store",
   description: "Timbres profissionais para seu pedalboard. Capturas, IRs e presets prontos para o palco criados por Luccas Macedo.",
   keywords: ["bass presets", "timbres de baixo", "pedalboard", "bass waves store", "Luccas Macedo"],
   authors: [{ name: "Luccas Macedo" }],
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: "Bass Waves Store",
     description: "Timbres profissionais para seu pedalboard. Capturas, IRs e presets prontos para o palco.",
     url: "https://basswave.com.br",
-    siteName: "Bass Waves Store",
+    siteName: "BassWaves Store",
     locale: "pt_BR",
     type: "website",
     images: [
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Bass Waves Store",
+    title: "BassWaves Store",
     description: "Timbres profissionais para seu pedalboard.",
     images: ["/icon.png"],
   },
