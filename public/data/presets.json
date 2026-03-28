@@ -1,36 +1,82 @@
 [
   {
     "id": "tankb-blackbox",
-    "title": "Capturas / IR",
-    "subtitle": "Tank B / Black Box",
+    "title": "Tank B / Black Box",
+    "subtitle": "Capturas / IR",
     "imageKey": "packTankb",
-    "timbres": ["Tone Hammer AGS","Tone Hammer Clean","Aguilar Flat","Aguilar","Ampeg SVT","Ampeg SVT 4 Pro","Braguinha PB","Ratt SGT 1","Ratt SGT 2","Ratt SGT 3","Sub Bass","Haktke","Tone Hammer (IR)"]
+    "timbres": [
+      "Tone Hammer AGS",
+      "Tone Hammer Clean",
+      "Aguilar Flat",
+      "Aguilar",
+      "Ampeg SVT",
+      "Ampeg SVT 4 Pro",
+      "Braguinha PB",
+      "Ratt SGT 1",
+      "Ratt SGT 2",
+      "Ratt SGT 3",
+      "Sub Bass",
+      "Haktke",
+      "Tone Hammer (IR)"
+    ]
   },
   {
     "id": "valeton-gp200",
     "title": "Valeton GP 200",
     "subtitle": "Pack 2.0",
     "imageKey": "packValeton",
-    "timbres": ["Tone Hammer AGS V2","Ratt SGT V2","Bass Microsynth V2","Clean + Octave","Clean","Clean + Chorus","Clean + Delay","Clean + Wah"]
+    "timbres": [
+      "Tone Hammer AGS V2",
+      "Ratt SGT V2",
+      "Bass Microsynth V2",
+      "Clean + Octave",
+      "Clean",
+      "Clean + Chorus",
+      "Clean + Delay",
+      "Clean + Wah"
+    ]
   },
   {
     "id": "ampero-mini",
     "title": "Ampero Mini",
     "subtitle": "Pack 2.0",
     "imageKey": "packAmpero",
-    "timbres": ["Tone Hammer AGS V2","Ratt SGT V2","Bass Microsynth V2","Bass Synth","Clean","Clean + Octave","Bass Fuzz","Clean + Chorus","Darkglass 1","Darkglass 2","Darkglass 3"]
+    "timbres": [
+      "Tone Hammer AGS V2",
+      "Ratt SGT V2",
+      "Bass Microsynth V2",
+      "Bass Synth",
+      "Clean",
+      "Clean + Octave",
+      "Bass Fuzz",
+      "Clean + Chorus",
+      "Darkglass 1",
+      "Darkglass 2",
+      "Darkglass 3"
+    ]
   },
   {
     "id": "boss-gt1b",
     "title": "Boss GT1B",
     "subtitle": "Pack 2.0",
     "imageKey": "packBoss",
-    "timbres": ["Tone Hammer AGS V2","Ratt SGT V2","Bass Microsynth V2","Moog","Clean","Clean + Octave","Clean + Wah","Clean + Chorus","Slap","Ambience Delay"]
+    "timbres": [
+      "Tone Hammer AGS V2",
+      "Ratt SGT V2",
+      "Bass Microsynth V2",
+      "Moog",
+      "Clean",
+      "Clean + Octave",
+      "Clean + Wah",
+      "Clean + Chorus",
+      "Slap",
+      "Ambience Delay"
+    ]
   },
   {
     "id": "dcx",
-    "title": "Capturas / IR",
-    "subtitle": "Tank B / Black Box DCX",
+    "title": "Tank B / Black Box DCX ",
+    "subtitle": "Capturas / IR",
     "imageKey": "packDcx",
     "timbres": [
       "DCX CLEAN",
@@ -64,6 +110,47 @@
       "Chorus",
       "Filter",
       "Clean + Chorus",
+      "Slap"
+    ]
+  },
+  {
+    "id": "matribox-ii",
+    "title": "Matribox II",
+    "subtitle": "Pack 1.0",
+    "imageKey": "packMatriboxII",
+    "timbres": [
+      "Tone Hammer AGS",
+      "Ratt SGT",
+      "Bass Microsynth",
+      "Clean",
+      "Clean + Octave"
+    ]
+  },
+  {
+    "id": "hx-stomp",
+    "title": "HX Stomp",
+    "subtitle": "Pack 1.0",
+    "imageKey": "packHxStomp",
+    "timbres": [
+      "Tone Hammer AGS",
+      "Ratt SGT",
+      "Bass Microsynth",
+      "Clean",
+      "Clean + Octave",
+      "Clean + Chorus"
+    ]
+  },
+  {
+    "id": "zoom-b1-four",
+    "title": "Zoom B1 Four",
+    "subtitle": "Pack 1.0",
+    "imageKey": "packZoomB1Four",
+    "timbres": [
+      "Tone Hammer AGS",
+      "Ratt SGT",
+      "Bass Microsynth",
+      "Clean",
+      "Clean + Octave",
       "Slap"
     ]
   }
